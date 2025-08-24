@@ -9,4 +9,5 @@
 
 ## Contenido 
 
-- Web Scraping con BeautifulSoup
+- Web Scraping con Beautiful Soup: Extracción de Datos de la Web
+- Python para PNL: Herramientas para Lingüistica Computacional
